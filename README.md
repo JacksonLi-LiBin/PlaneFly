@@ -4,6 +4,8 @@
 
 ![image](./gif/Plane%20Fly.gif)
 
+如何使用Flutter翻转动画：https://rtcdeveloper.agora.io/t/topic/20538
+
 import 'package:flutter/material.dart';
 
 /**
